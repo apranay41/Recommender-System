@@ -1,3 +1,3 @@
 # Recommender-System
-Using Collaborative Filtering
-Using Content Based Filtering
+<h4>Using Collaborative Filtering</h4>
+<h4>Using Content Based Filtering</h4>
